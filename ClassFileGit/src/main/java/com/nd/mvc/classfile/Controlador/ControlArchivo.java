@@ -23,6 +23,10 @@ public class ControlArchivo implements ActionListener {
     public ControlArchivo(InterfazVista vista, Archivo modelo) {
         this.vista = vista;
         this.modelo = modelo;
+        
+    }
+    public static void crearCarpeta(){
+        
     }
     
     
